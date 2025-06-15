@@ -1,4 +1,5 @@
 # ¡Hola! Soy Juan Alberto Aguilar Corado
+> 💡 “El código que escribes es el reflejo de tu forma de pensar. Hazlo limpio, claro y funcional.”
 
 Soy un desarrollador apasionado por la tecnología y la creación de soluciones prácticas con software. Actualmente estoy enfocado en el desarrollo de aplicaciones web y móviles, combinando mis conocimientos en HTML, CSS, JavaScript, Node.js, REACT.
 
