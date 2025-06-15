@@ -5,21 +5,22 @@ Soy un desarrollador apasionado por la tecnología y la creación de soluciones 
 
 ---
 
-## 🚀 Sobre mí
+### 🚀 Sobre mí
 
-- 🎓 Estudio Ingeniería en Sistemas  
-- 💼 Co-fundador de una startup de desarrollo de software llamada **NOESIS**  
-- 🛠️ Me gusta construir soluciones como:  
-  - Aplicaciones conectadas a APIs REST  
-  - Aplicaciones full stack con React y Node.js  
-- 🎯 Objetivo: seguir creciendo como desarrollador full stack y crear herramientas útiles y bien estructuradas.  
-- 🎨 También disfruto de:
+- 🎓 Estudio Ingeniería en Sistemas
+- 🧑‍💻 Co-fundador de la startup NOESIS
+- 💡 Me gusta construir soluciones como:
+  - Aplicaciones conectadas a APIs REST
+  - Aplicaciones full stack con React y Node.js
+- 🎯 Objetivo: seguir creciendo como desarrollador full stack y crear herramientas útiles y bien estructuradas.
+
+---
+
+### 🎨 También disfruto de:
   - ✏️ Dibujar (tradicional y digital)
   - 🎮 Jugar videojuegos
   - 📚Leer sobre ciencia, tecnología y misterios
   - 🏋️‍♂️ Hacer ejercicio y mejorar constantemente
-
----
 
 
 ## 🧰 Tecnologías y herramientas
