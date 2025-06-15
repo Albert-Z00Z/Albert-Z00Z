@@ -38,7 +38,7 @@ Soy un desarrollador apasionado por la tecnología y la creación de soluciones 
 
 ## 📈 Estadísticas de GitHub
 
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanaguilarcorado&show_icons=true&theme=radical)
+![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert-Z00Z&show_icons=true&theme=radical)
 
 ---
 
