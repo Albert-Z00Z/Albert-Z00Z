@@ -7,12 +7,17 @@ Soy un desarrollador apasionado por la tecnología y la creación de soluciones 
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudio Ingeniería en Sistemas
-- 💼 Co-fundador de una startup de desarrollo de software "NOESIS"
-- 🛠️ Me gusta construir soluciones como:
-  - Aplicaciones conectadas a APIs REST
-  - Aplicaciones full stack con React y Node.js
-- 🎯 Objetivo: seguir creciendo como desarrollador full stack y crear herramientas útiles y bien estructuradas.
+- 🎓 Estudio Ingeniería en Sistemas  
+- 💼 Co-fundador de una startup de desarrollo de software llamada **NOESIS**  
+- 🛠️ Me gusta construir soluciones como:  
+  - Aplicaciones conectadas a APIs REST  
+  - Aplicaciones full stack con React y Node.js  
+- 🎯 Objetivo: seguir creciendo como desarrollador full stack y crear herramientas útiles y bien estructuradas.  
+- 🎨 También disfruto de:
+  - ✏️ Dibujar (tradicional y digital)
+  - 🎮 Jugar videojuegos
+  - 📚Leer sobre ciencia, tecnología y misterios
+  - 🏋️‍♂️ Hacer ejercicio y mejorar constantemente
 
 ---
 
@@ -24,7 +29,9 @@ Soy un desarrollador apasionado por la tecnología y la creación de soluciones 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ---
