@@ -46,9 +46,9 @@ Soy un desarrollador apasionado por la tecnología y la creación de soluciones 
 ## 📫 Contáctame
 
 - 📧 juan.aguilarcorado@gmail.com  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.aguilarcorado@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-alberto-aguilar-corado-92bb06261/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/albert_z_art/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-alberto-aguilar-corado-92bb06261/)  
+- 📸 [Instagram](https://www.instagram.com/albert_z_art/)
+
 
 
 
